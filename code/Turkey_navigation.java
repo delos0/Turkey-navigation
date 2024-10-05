@@ -11,12 +11,11 @@ import java.util.Scanner;
  * Coordinates of cities and their connections to other cities are taken from a file.
  * The starting city and destination city is inputted by the user.
  *
- * @author Yeldos Urashev, Student ID: 2022400372
+ * @author Yeldos Urashev
  * @since 03.04.2024
- * Student ID: 2022400372
  */
 
-public class YeldosUrashev {
+public class Turkey_navigation {
 
     /**
      * Finds the closest unvisited city
